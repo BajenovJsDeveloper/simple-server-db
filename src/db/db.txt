@@ -1,0 +1,1 @@
+{"text":"Do do do, how are you?","chatId":7,"users":[{"id":2,"name":"Jorik","age":20,"login":"eee"},{"id":5,"name":"Lena","age":36,"login":"YoYoYo"},{"name":"Lena","age":36,"login":"YoYoYo"},{"name":"Lena","age":32,"login":"MMMMMMM","id":"d946d4db-e529-425c-a3b1-835026225b70"}]}
